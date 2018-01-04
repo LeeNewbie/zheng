@@ -30,5 +30,6 @@
         <module>zheng-shop</module>
         <module>zheng-api</module>
         <module>zheng-demo</module>
+        <module>zheng-test</module>
     </modules>
 </project>

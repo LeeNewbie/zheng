@@ -44,10 +44,12 @@ public abstract class BaseController {
 
 	/**
 	 * 返回jsp视图
+	 *
 	 * @param path
 	 * @return
 	 */
 	public static String jsp(String path) {
+
 		return path.concat(".jsp");
 	}
 

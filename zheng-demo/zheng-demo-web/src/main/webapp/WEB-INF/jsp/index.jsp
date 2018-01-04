@@ -15,5 +15,9 @@
 </head>
 <body>
 jsp
+${host}<br>
+<c:forEach var="item" items="${users}" varStatus="status">
+	name:${item.name}
+</c:forEach>
 </body>
 </html>

@@ -9,9 +9,13 @@ import javax.jms.Message;
 import javax.jms.MessageListener;
 import javax.jms.TextMessage;
 
-/**
- * MQ消费者
- * Created by ZhangShuzheng on 2017/01/12.
+ /**
+   * @Title:
+   * @param:
+   * @return:
+   * @Description:
+   * @author: liting
+   * @date: 2017-12-28 14:16
  */
 public class DefaultMessageQueueListener implements MessageListener {
 

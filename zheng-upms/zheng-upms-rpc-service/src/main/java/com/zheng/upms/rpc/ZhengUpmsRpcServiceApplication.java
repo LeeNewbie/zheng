@@ -16,6 +16,8 @@ public class ZhengUpmsRpcServiceApplication {
 		LOGGER.info(">>>>> zheng-upms-rpc-service 正在启动 <<<<<");
 		new ClassPathXmlApplicationContext("classpath:META-INF/spring/*.xml");
 		LOGGER.info(">>>>> zheng-upms-rpc-service 启动完成 <<<<<");
+//		new ClassPathXmlApplicationContext("classpath:META-INF/spring/applicationContext-dubbo-provider.xml");
+//		new ClassPathXmlApplicationContext("classpath:META-INF/spring/applicationContext-ehcache.xml");
 	}
 
 }

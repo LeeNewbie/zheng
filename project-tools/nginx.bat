@@ -8,7 +8,7 @@ echo ==================begin========================
 
 cls 
 SET NGINX_PATH=D:
-SET NGINX_DIR=D:\nginx-1.11.11\
+SET NGINX_DIR=D:\tools\nginx-1.12.2\
 color 0a 
 TITLE zheng-tools Power By shuzheng (http://www.zhangshuzheng.cn)
 
